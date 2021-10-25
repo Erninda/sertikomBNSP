@@ -1,0 +1,48 @@
+body,html,main{
+  margin: 0;
+  padding: 0;
+  background-color: azure;
+  background-image: url(img/bgt.png);
+  background-position: center;
+  background-size: auto;
+  background-repeat: no-repeat;
+  height: 100%;
+}
+.navbar{
+  background-color: rgb(98, 100, 253);
+}
+.navbar-brand{
+  color: cornsilk;
+}
+.nav-link{
+  color: cornsilk;
+}
+.navbar-brand:hover{
+  color: rgb(255, 0, 170);
+}
+.nav-link:hover{
+  color: rgb(255, 0, 170);
+}
+.card{
+  margin: 100px 20px 100px 20px;
+}
+.card.in{
+  margin: 10px 10px 10px 10px;
+}
+.footer{
+  background-color: rgba(107, 225, 255, 0.685);
+  padding: 20px;
+  bottom: 0;
+}
+.logo{
+  margin: 20px;
+  padding: 20px;
+}
+.lg{
+  margin: 10px;
+  padding: 10px;
+}
+.card-title{
+  margin: 10px;
+  padding: 10px;
+}
